@@ -1,4 +1,4 @@
-<h1>Climate controlled terrarium<h1>
+**Climate controlled terrarium**
 
 A group project with the course "Thermal Systems for Power and Environment" (Sep - Dec 2020).
 
