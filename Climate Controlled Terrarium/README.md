@@ -1,4 +1,5 @@
-**Climate controlled terrarium**
+<h1>Climate controlled terrarium<h1>
+
 A group project with the course "Thermal Systems for Power and Environment" (Sep - Dec 2020).
 
 Designed an automated terrarium able to regulate against ambient changes;
