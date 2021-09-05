@@ -1,4 +1,4 @@
-**Project "Dress Smart"**
+**"Dress Smart"**
 
 A group project with the course "Engineering Design Innovation" (Jan - Apr 2020).
 
